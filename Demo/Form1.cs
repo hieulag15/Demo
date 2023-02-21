@@ -103,8 +103,8 @@ namespace Demo
         }
         private void Reset()
         {
-            txtUser.Text = "";
-            txtPass.Text = "";
+            txtUser.Text = " ";
+            txtPass.Text = " ";
             progressBar1.Value= 0;
         }        
     }
