@@ -1,0 +1,68 @@
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\bin\Debug\net6.0-windows\Demo.exe
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\bin\Debug\net6.0-windows\Demo.deps.json
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\bin\Debug\net6.0-windows\Demo.runtimeconfig.json
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\bin\Debug\net6.0-windows\Demo.dll
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\bin\Debug\net6.0-windows\Demo.pdb
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.AssemblyReference.cache
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.Form1.resources
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.GenerateResource.cache
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfoInputs.cache
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfo.cs
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.CoreCompileInputs.cache
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.dll
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\refint\Demo.dll
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.pdb
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\Demo.genruntimeconfig.cache
+D:\lAY\HieuLap\HK4\Windown\WEEK 3\Demo\Demo\obj\Debug\net6.0-windows\ref\Demo.dll
+D:\Workspace\Lập trình windows\Demo\Demo\bin\Debug\net6.0-windows\Demo.exe
+D:\Workspace\Lập trình windows\Demo\Demo\bin\Debug\net6.0-windows\Demo.deps.json
+D:\Workspace\Lập trình windows\Demo\Demo\bin\Debug\net6.0-windows\Demo.runtimeconfig.json
+D:\Workspace\Lập trình windows\Demo\Demo\bin\Debug\net6.0-windows\Demo.dll
+D:\Workspace\Lập trình windows\Demo\Demo\bin\Debug\net6.0-windows\Demo.pdb
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.AssemblyReference.cache
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.Form1.resources
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.GenerateResource.cache
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfoInputs.cache
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfo.cs
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.CoreCompileInputs.cache
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.dll
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\refint\Demo.dll
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.pdb
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\Demo.genruntimeconfig.cache
+D:\Workspace\Lập trình windows\Demo\Demo\obj\Debug\net6.0-windows\ref\Demo.dll
+D:\bao\LAPTRINHWIN\Demo\Demo\bin\Debug\net6.0-windows\Demo.exe
+D:\bao\LAPTRINHWIN\Demo\Demo\bin\Debug\net6.0-windows\Demo.deps.json
+D:\bao\LAPTRINHWIN\Demo\Demo\bin\Debug\net6.0-windows\Demo.runtimeconfig.json
+D:\bao\LAPTRINHWIN\Demo\Demo\bin\Debug\net6.0-windows\Demo.dll
+D:\bao\LAPTRINHWIN\Demo\Demo\bin\Debug\net6.0-windows\Demo.pdb
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.AssemblyReference.cache
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.Form1.resources
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.GenerateResource.cache
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfoInputs.cache
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfo.cs
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.CoreCompileInputs.cache
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.dll
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\refint\Demo.dll
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.pdb
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\Demo.genruntimeconfig.cache
+D:\bao\LAPTRINHWIN\Demo\Demo\obj\Debug\net6.0-windows\ref\Demo.dll
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\bin\Debug\net6.0-windows\Demo.exe
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\bin\Debug\net6.0-windows\Demo.deps.json
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\bin\Debug\net6.0-windows\Demo.runtimeconfig.json
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\bin\Debug\net6.0-windows\Demo.dll
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\bin\Debug\net6.0-windows\Demo.pdb
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.Form1.resources
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.csproj.GenerateResource.cache
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfo.cs
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.dll
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\refint\Demo.dll
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.pdb
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\Demo.genruntimeconfig.cache
+C:\Users\LAPTOP\Downloads\Demo (1)\Demo\obj\Debug\net6.0-windows\ref\Demo.dll
